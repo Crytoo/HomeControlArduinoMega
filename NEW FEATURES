@@ -1,3 +1,6 @@
 # Sterowanie całością bez działającego Domoticza
 # Zmiana HTTP na MQTT
 # Bezpośrednia komunikacja pomiędzy poszczególnymi modułami (z wykorzystaniem MQTT)
+# Dodanie obsługi czujek PIR
+# Dodanie obsługi taśm RGB RGBW
+# Integracja z ExtaLife - wyzwanie nie wiem czy się uda!

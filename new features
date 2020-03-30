@@ -1,0 +1,3 @@
+# Sterowanie całością bez działającego Domoticza
+# Zmiana HTTP na MQTT
+# Bezpośrednia komunikacja pomiędzy poszczególnymi modułami (z wykorzystaniem MQTT)

@@ -1,6 +1,6 @@
 # HomeControlArduinoMega
-Sterowaniem automatyką domową za pomocą Arduino Mega 
+# Sterowaniem automatyką domową za pomocą Arduino Mega 
 
-NAS Serwer QNAP z Domoticzem
-HTTP - działa
-MQTT - do zrobienia
+# NAS Serwer QNAP z Domoticzem
+# HTTP - działa
+# MQTT - do zrobienia

@@ -3,4 +3,3 @@
 # Bezpośrednia komunikacja pomiędzy poszczególnymi modułami (z wykorzystaniem MQTT)
 # Dodanie obsługi czujek PIR
 # Dodanie obsługi taśm RGB RGBW
-# Integracja z ExtaLife - wyzwanie nie wiem czy się uda!
